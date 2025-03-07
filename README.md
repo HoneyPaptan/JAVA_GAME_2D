@@ -46,7 +46,7 @@ This project was more than just building a game—it was an **invaluable learnin
 ## 🚀 **How to Run the Game**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/my2dgame.git
+   git clone https://github.com/HoneyPaptan/my2dgame.git
    ```
 2. Open the project in **Eclipse** or any Java-supported IDE.
 3. Run the `Main.java` file to start the game.
